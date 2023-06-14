@@ -1,5 +1,4 @@
-### Hi there 👋, Michael Lobato
-#### FE Software Developer
+### FE Software Developer
 My pursuit of front-end software development allows me to combine my technical skills with my passions for nature, photography, and music. I aim to create user experiences that not only meet functional requirements but also evoke emotions and engage users on a deeper level. By infusing my designs with elements inspired by nature, capturing breathtaking visuals, and incorporating harmonious interactions, I strive to bring a touch of artistry into the digital realm.
 
 ### Contact Me
@@ -14,9 +13,7 @@ My pursuit of front-end software development allows me to combine my technical s
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <br>
 
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlobatoman)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/mrlobatoman)  
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlobatoman)](https://github.com/anuraghazra/github-readme-stats)![GitHub metrics](https://metrics.lecoq.io/mrlobatoman)  
 
 
 
