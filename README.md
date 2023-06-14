@@ -4,8 +4,8 @@ My pursuit of front-end software development allows me to combine my technical s
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' align="left" width="30px" style="padding-right:10px;">](https://github.com/mrlobatoman)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' align="left" width="30px" style="padding-right:10px;">](https://www.linkedin.com/in/https://www.linkedin.com/in/mrlobatoman//)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' align="left" width="30px" style="padding-right:10px;">(https://github.com/mrlobatoman)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' align="left" width="30px" style="padding-right:10px;">(https://www.linkedin.com/in/https://www.linkedin.com/in/mrlobatoman//)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' align="left" width="30px" style="padding-right:10px;">](https://mclobato.com/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlobatoman)](https://github.com/anuraghazra/github-readme-stats)
