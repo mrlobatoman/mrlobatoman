@@ -1,10 +1,12 @@
-### FE Software Developer
-My pursuit of front-end software development allows me to combine my technical skills with my passions for nature, photography, and music. I aim to create user experiences that not only meet functional requirements but also evoke emotions and engage users on a deeper level. By infusing my designs with elements inspired by nature, capturing breathtaking visuals, and incorporating harmonious interactions, I strive to bring a touch of artistry into the digital realm.
+### Greetings
+I'm Michael! Nice to meet yah! My pursuit of front-end software development allows me to combine my technical skills with my passions for nature, photography, and music. I aim to create user experiences that not only meet functional requirements but also evoke emotions and engage users on a deeper level. By infusing my designs with elements inspired by nature, capturing breathtaking visuals, and incorporating harmonious interactions, I strive to bring a touch of artistry into the digital realm.
 
+_________________________________________________________________________________________________________________
 ### Contact Me
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' align="left" width="30px" style="padding-right:10px;">](https://www.linkedin.com/in/https://www.linkedin.com/in/mrlobatoman//)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" alt='website' align="left" width="30px" style="padding-right:10px;">](https://mclobato.com/) <br> 
 
+_________________________________________________________________________________________________________________
 ### Languages and Tools
 
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
