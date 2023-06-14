@@ -12,8 +12,9 @@ My pursuit of front-end software development allows me to combine my technical s
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <br>
 
-
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlobatoman)](https://github.com/anuraghazra/github-readme-stats)![GitHub metrics](https://metrics.lecoq.io/mrlobatoman)  
+_________________________________________________________________________________________________________________
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlobatoman)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/mrlobatoman)  
 
 
 
