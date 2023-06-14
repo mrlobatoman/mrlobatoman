@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My pursuit of front-end software development allows me to combine my technical skills with my passions for nature, photography, and music. I aim to create user experiences that not only meet functional requirements but also evoke emotions and engage users on a deeper level. By infusing my designs with elements inspired by nature, capturing breathtaking visuals, and incorporating harmonious interactions, I strive to bring a touch of artistry into the digital realm.
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrlobatoman)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **mrlobatoman/mrlobatoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
