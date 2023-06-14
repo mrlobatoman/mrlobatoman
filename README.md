@@ -2,7 +2,7 @@
 
 My pursuit of front-end software development allows me to combine my technical skills with my passions for nature, photography, and music. I aim to create user experiences that not only meet functional requirements but also evoke emotions and engage users on a deeper level. By infusing my designs with elements inspired by nature, capturing breathtaking visuals, and incorporating harmonious interactions, I strive to bring a touch of artistry into the digital realm.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_rank=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrlobatoman&show_icons=true&hide_rank=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&include_all_commits=true)
 
 
 <!--
